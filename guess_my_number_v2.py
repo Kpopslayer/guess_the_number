@@ -31,6 +31,7 @@ while guess != number:
 
        
 print("\nIt took you", tries, "tries!")
+print("The correct number was:", number)
 
 input("\n\nPress the enter key to exit.")
 
